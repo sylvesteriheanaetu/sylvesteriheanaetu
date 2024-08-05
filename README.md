@@ -15,7 +15,7 @@
 
 💬 Ask me anything about data analysis and your health concerns 😉
 
-📫 How to reach me: [Send a mail](sylvesteriheanaetu@yahoo.com)
+📫 Want to reach me? Drop a mail here: sylvesteriheanaetu@yahoo.com
 
 📍  I am available for Data Analytics and Data Entry Specialist roles.
 
