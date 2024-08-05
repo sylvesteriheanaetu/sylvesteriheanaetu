@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi there, Welcome to my page. My name is Sylvester🙂
 
-<!--
-**sylvesteriheanaetu/sylvesteriheanaetu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 📊 I'm a data analyst and Pharmacist 💊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚒️ I'm skilled with the use of Excel, SQL and  Power BI to solve data problems.
+ 
+🌱 I’m currently learning Python.
+
+✍️ And yes, I'm good at data storytelling 📜
+
+👯 I’m looking to collaborate on healthcare data projects.
+
+🤔 I’m looking for help with internship and entry-level data roles.
+
+💬 Ask me anything about data analysis and your health concerns 😉
+
+📫 How to reach me: [Send a mail](sylvesteriheanaetu@yahoo.com)
+
+📍  I am available for Data Analytics and Data Entry Specialist roles.
+
